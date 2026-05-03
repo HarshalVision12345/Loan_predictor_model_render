@@ -3,4 +3,3 @@ fastapi
 uvicorn
 scikit-learn
 pandas
-ydata-profiling
